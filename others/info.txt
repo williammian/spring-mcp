@@ -1,0 +1,15 @@
+Claude Desktop
+
+claude_desktop_config.json
+
+{
+    "mcpServers": {
+	  	"vendas-analysis-server": {
+		    "command": "java",
+		    "args": [
+				"-jar",
+				"C:\\Fontes\\FontesSTS\\spring-mcp\\target\\spring-mcp-0.0.1-SNAPSHOT.jar"
+		    ]
+	  	}
+    }
+}
